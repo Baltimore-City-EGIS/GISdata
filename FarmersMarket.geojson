@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57236939927175,
+                    39.340355792405816
+                ]
+            },
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "marker-symbol": "grocery",
+                "NAME": "HAMILTON LAURAVILLE TUESDAY MARKET",
+                "ADDRESS": "4500  HARFORD RD"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64463163992684,
+                    39.35592826073285
+                ]
+            },
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "marker-symbol": "grocery",
+                "NAME": "VILLAGE OF CROSS KEYS FARMERS' MARKET",
+                "ADDRESS": "5100  FALLS RD"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.56668110297421,
+                    39.28645474440794
+                ]
+            },
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "marker-symbol": "grocery",
+                "NAME": "HIGHLANDTOWN FARMERS' MARKET",
+                "ADDRESS": "3601 EASTERN AVE"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59443983580464,
+                    39.29625247166297
+                ]
+            },
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "marker-symbol": "grocery",
+                "NAME": "JOHNS HOPKINS HOSPITAL FARMERS MARKET",
+                "ADDRESS": "550 N BROADWAY"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59327116327908,
+                    39.28245660968383
+                ]
+            },
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "marker-symbol": "grocery",
+                "NAME": "FELLS POINT FARMERS MARKET",
+                "ADDRESS": "1641 LANCASTER ST"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6519353510966,
+                    39.29297421901955
+                ]
+            },
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "marker-symbol": "grocery",
+                "NAME": "WEST BALTIMORE MARC FARMERS' MARKET",
+                "ADDRESS": "400 N SMALLWOOD ST"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62235842254003,
+                    39.302760470205776
+                ]
+            },
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "marker-symbol": "grocery",
+                "NAME": "STATE CENTER COMMUNITY FARMERS' MARKET",
+                "ADDRESS": "State Center Community Farmers' Market"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60111515939992,
+                    39.273449078746204
+                ]
+            },
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "marker-symbol": "grocery",
+                "NAME": "BALTIMORE MUSEUM OF INDUSTRY (BMI) FARMERS' MARKET",
+                "ADDRESS": "1425 KEY HWY"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61086717830595,
+                    39.327507211651266
+                ]
+            },
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "marker-symbol": "grocery",
+                "NAME": "32ND STREET WAVERLY FARMERS' MARKET",
+                "ADDRESS": "3201 BARCLAY ST"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61520212953317,
+                    39.25186226983566
+                ]
+            },
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "marker-symbol": "grocery",
+                "NAME": "HARBOR HOSPITAL FARMERS MARKET",
+                "ADDRESS": "3001 S HANOVER ST"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64586967424196,
+                    39.318527308816385
+                ]
+            },
+            "type": "Feature",
+            "id": 10,
+            "properties": {
+                "marker-symbol": "grocery",
+                "NAME": "DRUID HILL PARK FARMERS MARKET",
+                "ADDRESS": "Howard Peters Rawlings Conservatory"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.69724229253049,
+                    39.33218448179921
+                ]
+            },
+            "type": "Feature",
+            "id": 11,
+            "properties": {
+                "marker-symbol": "grocery",
+                "NAME": "HOWARD PARK COMMUNITY FARMERS' MARKET",
+                "ADDRESS": "4800 LIBERTY HEIGHTS AVE"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62272442718321,
+                    39.28894393262223
+                ]
+            },
+            "type": "Feature",
+            "id": 12,
+            "properties": {
+                "marker-symbol": "grocery",
+                "NAME": "UNIVERSITY FARMERS MARKET",
+                "ADDRESS": "501 W BALTIMORE ST"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.67617832032003,
+                    39.34937288155751
+                ]
+            },
+            "type": "Feature",
+            "id": 13,
+            "properties": {
+                "marker-symbol": "grocery",
+                "NAME": "PARK HEIGHTS COMMUNITY FARMERS' MARKET",
+                "ADDRESS": "5201 PARK HEIGHTS AVE"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.65982503311369,
+                    39.347002609494574
+                ]
+            },
+            "type": "Feature",
+            "id": 14,
+            "properties": {
+                "marker-symbol": "grocery",
+                "NAME": "GO LIFE CYLBURN FARMERS MARKET",
+                "ADDRESS": "2605  BANISTER RD"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61615540090395,
+                    39.308630117815206
+                ]
+            },
+            "type": "Feature",
+            "id": 15,
+            "properties": {
+                "marker-symbol": "grocery",
+                "NAME": "CHARLES STREET FRIDAY MARKET",
+                "ADDRESS": "1 E LANVALE ST"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64983930974523,
+                    39.36834912770968
+                ]
+            },
+            "type": "Feature",
+            "id": 16,
+            "properties": {
+                "marker-symbol": "grocery",
+                "NAME": "MT. WASINGTON WHOLE FOODS MARKET FARMER'S MARKET",
+                "ADDRESS": "1330 SMITH AVE"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61064625788424,
+                    39.29345447730841
+                ]
+            },
+            "type": "Feature",
+            "id": 17,
+            "properties": {
+                "marker-symbol": "grocery",
+                "NAME": "BALTIMORE FARMERS' MARKET",
+                "ADDRESS": "330 N HOLLIDAY ST"
+            }
+        }
+    ]
+}
