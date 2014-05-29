@@ -2144,7 +2144,7 @@
             "type": "Feature",
             "id": 0,
             "properties": {
-                "stroke": "#f0f0f0",
+                "stroke": "#000000",
                 "Name": "NORTHWESTERN"
             }
         },
@@ -3479,7 +3479,7 @@
             "type": "Feature",
             "id": 1,
             "properties": {
-                "stroke": "#f0f0f0",
+                "stroke": "#000000",
                 "Name": "WESTERN"
             }
         },
@@ -5526,7 +5526,7 @@
             "type": "Feature",
             "id": 2,
             "properties": {
-                "stroke": "#f0f0f0",
+                "stroke": "#000000",
                 "Name": "SOUTHWESTERN"
             }
         },
@@ -7177,7 +7177,7 @@
             "type": "Feature",
             "id": 3,
             "properties": {
-                "stroke": "#f0f0f0",
+                "stroke": "#000000",
                 "Name": "SOUTHERN"
             }
         },
@@ -8608,7 +8608,7 @@
             "type": "Feature",
             "id": 4,
             "properties": {
-                "stroke": "#f0f0f0",
+                "stroke": "#000000",
                 "Name": "NORTHEASTERN"
             }
         },
@@ -10955,7 +10955,7 @@
             "type": "Feature",
             "id": 5,
             "properties": {
-                "stroke": "#f0f0f0",
+                "stroke": "#000000",
                 "Name": "NORTHERN"
             }
         },
@@ -12882,7 +12882,7 @@
             "type": "Feature",
             "id": 6,
             "properties": {
-                "stroke": "#f0f0f0",
+                "stroke": "#000000",
                 "Name": "CENTRAL"
             }
         },
@@ -14409,7 +14409,7 @@
             "type": "Feature",
             "id": 7,
             "properties": {
-                "stroke": "#f0f0f0",
+                "stroke": "#000000",
                 "Name": "SOUTHEASTERN"
             }
         },
@@ -16060,7 +16060,7 @@
             "type": "Feature",
             "id": 8,
             "properties": {
-                "stroke": "#f0f0f0",
+                "stroke": "#000000",
                 "Name": "EASTERN"
             }
         }
