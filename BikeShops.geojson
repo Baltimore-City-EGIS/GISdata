@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59296918341099,
+                    39.282934578571826
+                ]
+            },
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "marker-symbol": "bicycle",
+                "Name": "Joe's Fells Point",
+                "Address": "723 S BROADWAY"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6028127567226,
+                    39.27353537295146
+                ]
+            },
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "marker-symbol": "bicycle",
+                "Name": "Race Pace Bicycles",
+                "Address": "1410 KEY HWY"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6287656149781,
+                    39.33112169868203
+                ]
+            },
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "marker-symbol": "bicycle",
+                "Name": "Twenty20",
+                "Address": "725 W 36TH ST"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61660578038587,
+                    39.30884950235718
+                ]
+            },
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "marker-symbol": "bicycle",
+                "Name": "Velocipede Bike Project",
+                "Address": "1700 N CHARLES ST"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5587336633081,
+                    39.280604063078016
+                ]
+            },
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "marker-symbol": "bicycle",
+                "Name": "Outlaw Bike Shop",
+                "Address": "4401 O'DONNELL ST"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6124359133595,
+                    39.276200461324215
+                ]
+            },
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "marker-symbol": "bicycle",
+                "Name": "Light Street Cycles",
+                "Address": "1124 LIGHT ST"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59317094612994,
+                    39.28614031992581
+                ]
+            },
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "marker-symbol": "bicycle",
+                "Name": "Broadway Bicycle",
+                "Address": "415 S BROADWAY"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61924228843407,
+                    39.31070229313864
+                ]
+            },
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "marker-symbol": "bicycle",
+                "Name": "Baltimore Bike Works",
+                "Address": "137 W NORTH AVE"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6478568679247,
+                    39.36726334660315
+                ]
+            },
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "marker-symbol": "bicycle",
+                "Name": "Joe's Bike Shop",
+                "Address": "5811  FALLS RD"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63597593816952,
+                    39.286197727515415
+                ]
+            },
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "marker-symbol": "bicycle",
+                "Name": "Carlton Street Stables",
+                "Address": "112 S CARLTON ST"
+            }
+        }
+    ]
+}
