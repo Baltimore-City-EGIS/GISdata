@@ -1,0 +1,3141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61061998322063,
+                    39.29081300719492
+                ]
+            },
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "City Hall",
+                "Address": "100 N. Holliday Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61727739728866,
+                    39.284487501478814
+                ]
+            },
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Otterbein Church",
+                "Address": "112 W. Conway Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60114787586828,
+                    39.29119363682748
+                ]
+            },
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "McKim Free School",
+                "Address": "1120 E. Baltimore Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6157975765909,
+                    39.29535250112496
+                ]
+            },
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "First Unitarian Church",
+                "Address": "2-12 West Franklin Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6152896459719,
+                    39.28006180471453
+                ]
+            },
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Ebenezer A.M.E. Church",
+                "Address": "18,20-30 W. Montgomery Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61000994787358,
+                    39.29185653976671
+                ]
+            },
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Municipal Museum of Balt (Peale Museum)",
+                "Address": "225 N. Holliday Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61566144542351,
+                    39.314553605343306
+                ]
+            },
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Lovely Lane Methodist Church (First Methodist)",
+                "Address": "2200 St. Paul Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60119460972795,
+                    39.29049403348019
+                ]
+            },
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Lloyd Street Synagogue",
+                "Address": "11 Lloyd Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62897573541473,
+                    39.30190313201744
+                ]
+            },
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Bethel A.M.E. Church",
+                "Address": "1300 Druid Hill Avenue"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62459503039076,
+                    39.303070379768606
+                ]
+            },
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Eutaw Place Baptist Church",
+                "Address": "313 Dolphin Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60151036942352,
+                    39.294550649477195
+                ]
+            },
+            "type": "Feature",
+            "id": 10,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Eastern Female High School",
+                "Address": "249 Aisquith Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61548724691175,
+                    39.3022048336402
+                ]
+            },
+            "type": "Feature",
+            "id": 11,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Belvedere Hotel",
+                "Address": "1 East Chase Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61239399246227,
+                    39.29066444927465
+                ]
+            },
+            "type": "Feature",
+            "id": 12,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Battle Monument",
+                "Address": "Calvert St. near Fayette Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61493461256578,
+                    39.29206687402769
+                ]
+            },
+            "type": "Feature",
+            "id": 13,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "St. Paul's P.E. Church",
+                "Address": "233 N. Charles Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61637160073269,
+                    39.293268095214664
+                ]
+            },
+            "type": "Feature",
+            "id": 14,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "St.Paul's P.E. Church Rectory",
+                "Address": "24 W. Saratoga Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.65233776999457,
+                    39.3531623088523
+                ]
+            },
+            "type": "Feature",
+            "id": 15,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Cylburn House and Park",
+                "Address": "4915 Greenspring Ave"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62327361089822,
+                    39.28717121909329
+                ]
+            },
+            "type": "Feature",
+            "id": 16,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Davidge Hall",
+                "Address": "522 W. Lombard Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6326061469106,
+                    39.28541077034169
+                ]
+            },
+            "type": "Feature",
+            "id": 17,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Mt.Clare Station & Roundhouse",
+                "Address": "Pratt and Poppleton Streets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62080019536957,
+                    39.34899814031084
+                ]
+            },
+            "type": "Feature",
+            "id": 18,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Evergreen House",
+                "Address": "4545 N. Charles Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61158814053105,
+                    39.29080045697156
+                ]
+            },
+            "type": "Feature",
+            "id": 19,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Old Post Office Building",
+                "Address": "111 N. Calvert Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61888057968439,
+                    39.32965145746009
+                ]
+            },
+            "type": "Feature",
+            "id": 20,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Homewood House",
+                "Address": "Johns Hopkins University"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64628507286136,
+                    39.32438112734017
+                ]
+            },
+            "type": "Feature",
+            "id": 21,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Maryland House",
+                "Address": "Druid Hill Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62045070707306,
+                    39.28774621145899
+                ]
+            },
+            "type": "Feature",
+            "id": 22,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Baltimore Arts Tower (Bromo Seltzer)",
+                "Address": "312-318 W. Lombard Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61195042235497,
+                    39.289068426815255
+                ]
+            },
+            "type": "Feature",
+            "id": 23,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Mercantile Safe Deposit and Trust Building",
+                "Address": "202 E. Redwood Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60338056861083,
+                    39.28755087941934
+                ]
+            },
+            "type": "Feature",
+            "id": 24,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Star Spangled Banner Flag House",
+                "Address": "844 E. Pratt Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60110469546656,
+                    39.29185299350668
+                ]
+            },
+            "type": "Feature",
+            "id": 25,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Old Town Friends' Meeting House",
+                "Address": "1201 E. Fayette Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62341600408327,
+                    39.2958523314338
+                ]
+            },
+            "type": "Feature",
+            "id": 26,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Mother Seton House",
+                "Address": "600 N. Paca Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6156708183114,
+                    39.29756106102729
+                ]
+            },
+            "type": "Feature",
+            "id": 27,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Washington Monument and Mount Vernon Place",
+                "Address": "Charles Street at Monument"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62335469472553,
+                    39.289984275323334
+                ]
+            },
+            "type": "Feature",
+            "id": 28,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Westminister Presbyterian Church",
+                "Address": "509-513 W. Fayette Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61645690333334,
+                    39.29440562060998
+                ]
+            },
+            "type": "Feature",
+            "id": 29,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Basilica of the Assumption",
+                "Address": "401 Cathedral Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64182995850125,
+                    39.287509760294405
+                ]
+            },
+            "type": "Feature",
+            "id": 30,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "H.L. Mencken House",
+                "Address": "1524 Hollins Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60541368312236,
+                    39.29073305882673
+                ]
+            },
+            "type": "Feature",
+            "id": 31,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Shot Tower",
+                "Address": "801 E. Fayette Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60629078817327,
+                    39.29132743347412
+                ]
+            },
+            "type": "Feature",
+            "id": 32,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "St. Vincent De Paul Church",
+                "Address": "120 N. Front Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61613133520403,
+                    39.29395693599424
+                ]
+            },
+            "type": "Feature",
+            "id": 33,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Old Cathedral School",
+                "Address": "7-9 W. Mulberry Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63305083944894,
+                    39.29127687991224
+                ]
+            },
+            "type": "Feature",
+            "id": 34,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Edgar Allan Poe House",
+                "Address": "203 N. Amity Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6160071523703,
+                    39.2971547190934
+                ]
+            },
+            "type": "Feature",
+            "id": 35,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Thomas-Jencks-Gladding-Hackerman House",
+                "Address": "1 W. Mount Vernon Place"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.58705523492158,
+                    39.320917252465534
+                ]
+            },
+            "type": "Feature",
+            "id": 36,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Clifton Mansion",
+                "Address": "Clifton Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63556908449421,
+                    39.35038527198788
+                ]
+            },
+            "type": "Feature",
+            "id": 37,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Roland Park Shopping Center",
+                "Address": "4800 Roland Avenue"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62335111990207,
+                    39.29588469215018
+                ]
+            },
+            "type": "Feature",
+            "id": 38,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "St.Mary's Seminary Chapel",
+                "Address": "600 N. Paca Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60104149700857,
+                    39.28999763231045
+                ]
+            },
+            "type": "Feature",
+            "id": 39,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "B'nai Israel Synagogue",
+                "Address": "15 Lloyd Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59721658732424,
+                    39.29698051359772
+                ]
+            },
+            "type": "Feature",
+            "id": 40,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "First Baptist Church",
+                "Address": "525 N. Caroline Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64160031951769,
+                    39.30527538191754
+                ]
+            },
+            "type": "Feature",
+            "id": 41,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Sharon Baptist Church",
+                "Address": "1373 N. Stricker Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57732252175535,
+                    39.36268349064819
+                ]
+            },
+            "type": "Feature",
+            "id": 42,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Taylor's Chapel and Burial Ground",
+                "Address": "Hillen Road (SW of Club House)"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60964970637107,
+                    39.291617012212164
+                ]
+            },
+            "type": "Feature",
+            "id": 43,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Zion Lutheran Church and Parish House",
+                "Address": "140-246 N. Gay Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61064783484716,
+                    39.288871931454686
+                ]
+            },
+            "type": "Feature",
+            "id": 44,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Furness House",
+                "Address": "19-21 South Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61501216348151,
+                    39.31589237817067
+                ]
+            },
+            "type": "Feature",
+            "id": 45,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Goucher House",
+                "Address": "2313 St. Paul Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60905170251826,
+                    39.28806011366557
+                ]
+            },
+            "type": "Feature",
+            "id": 46,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "United States Customs House",
+                "Address": "40 S. Gay Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61563367870099,
+                    39.30738192678901
+                ]
+            },
+            "type": "Feature",
+            "id": 47,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Pennsylvania Station",
+                "Address": "1525 N. Charles Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62142028295813,
+                    39.33651362585174
+                ]
+            },
+            "type": "Feature",
+            "id": 48,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Ascot House (Razed 1981)",
+                "Address": "104 W. 39th Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62480024633558,
+                    39.28557691539535
+                ]
+            },
+            "type": "Feature",
+            "id": 49,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Babe Ruth House",
+                "Address": "216 Emory Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60856406062082,
+                    39.29095598925901
+                ]
+            },
+            "type": "Feature",
+            "id": 50,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "War Memorial",
+                "Address": "101 N. Gay Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61247381524292,
+                    39.28944107143963
+                ]
+            },
+            "type": "Feature",
+            "id": 51,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Alexander Brown and Sons",
+                "Address": "135 E. Baltimore Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61277763206503,
+                    39.29080348475968
+                ]
+            },
+            "type": "Feature",
+            "id": 52,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Baltimore City Courthouse",
+                "Address": "100 N. Calvert Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.67436856928909,
+                    39.36500363978787
+                ]
+            },
+            "type": "Feature",
+            "id": 53,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Carroll Hunting Lodge",
+                "Address": "5914 Greenspring Avenue"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61195126400118,
+                    39.289432033219946
+                ]
+            },
+            "type": "Feature",
+            "id": 54,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Continental Trust Building",
+                "Address": "201 E. Baltimore Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.698850463156,
+                    39.305098367677836
+                ]
+            },
+            "type": "Feature",
+            "id": 55,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Crimea House, Chapel and Stables",
+                "Address": "Leakin Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64165424653342,
+                    39.310261157452615
+                ]
+            },
+            "type": "Feature",
+            "id": 56,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Etting Cemetary",
+                "Address": "1500 W. North Avenue"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61137424725345,
+                    39.35151508570228
+                ]
+            },
+            "type": "Feature",
+            "id": 57,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Gallagher Mansion",
+                "Address": "431 Notre Dame Lane"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.7081454732211,
+                    39.31418402976182
+                ]
+            },
+            "type": "Feature",
+            "id": 58,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "James Lawrence Kernan Hospital",
+                "Address": "5214 Windsor Mill Road"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61744911283319,
+                    39.27722599665731
+                ]
+            },
+            "type": "Feature",
+            "id": 59,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Leadenhall Baptist Church",
+                "Address": "1021 Leadenhall Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64293835243608,
+                    39.27894420058559
+                ]
+            },
+            "type": "Feature",
+            "id": 60,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Mount Clare Mansion",
+                "Address": "Carroll Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61985039092207,
+                    39.3055205174188
+                ]
+            },
+            "type": "Feature",
+            "id": 61,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Mount Royal Station and Shed",
+                "Address": "1400 Cathedral Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61718015403065,
+                    39.29531007939135
+                ]
+            },
+            "type": "Feature",
+            "id": 62,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Bread of Life Cathedral",
+                "Address": "100 W. Franklin - 502 Cathedral"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60873920124321,
+                    39.302315974081445
+                ]
+            },
+            "type": "Feature",
+            "id": 63,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Saint Frances Academy",
+                "Address": "501 E. Chase Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60087537482887,
+                    39.287256417154396
+                ]
+            },
+            "type": "Feature",
+            "id": 64,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Saint Leo's Church",
+                "Address": "225 S. Exeter Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63871528474301,
+                    39.306433557382064
+                ]
+            },
+            "type": "Feature",
+            "id": 65,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Saint Peter Claver Church",
+                "Address": "1550 N. Fremont Avenue"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62842366182872,
+                    39.300764524734404
+                ]
+            },
+            "type": "Feature",
+            "id": 66,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Sharp Street United Methodist Church",
+                "Address": "508 Dolphin Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57981738872012,
+                    39.26324560721931
+                ]
+            },
+            "type": "Feature",
+            "id": 67,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Fort McHenry",
+                "Address": "1401 Constellation Plaza"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62193366440809,
+                    39.292640346748904
+                ]
+            },
+            "type": "Feature",
+            "id": 68,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "G. Krug & Sons",
+                "Address": "415-417 W. Saratoga Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61999460235731,
+                    39.29240153714056
+                ]
+            },
+            "type": "Feature",
+            "id": 69,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Hutzler's Palace Building",
+                "Address": "222 N. Howard Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.65483149949253,
+                    39.36924122850852
+                ]
+            },
+            "type": "Feature",
+            "id": 70,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Octagon Building, U.S.F & G",
+                "Address": "5801 Smith Avenue"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6387675138569,
+                    39.25903474288659
+                ]
+            },
+            "type": "Feature",
+            "id": 71,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Mount Auburn Cemetary",
+                "Address": "2614 Annapolis Road"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62777955596688,
+                    39.30337231458029
+                ]
+            },
+            "type": "Feature",
+            "id": 72,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Booker T. Washington Jr. High School",
+                "Address": "1300 Madison Avenue"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63118836597005,
+                    39.283055047034864
+                ]
+            },
+            "type": "Feature",
+            "id": 73,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Walters Bath House and Engine House #10",
+                "Address": "906 Washington Boulevard"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60976554596738,
+                    39.29867173054551
+                ]
+            },
+            "type": "Feature",
+            "id": 74,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Warden's House -Baltimore City Jail",
+                "Address": "Buren and Madison Streets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59134942755233,
+                    39.282202362330146
+                ]
+            },
+            "type": "Feature",
+            "id": 75,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Robert Long House",
+                "Address": "810-812 S. Ann Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6309556290843,
+                    39.33733265156812
+                ]
+            },
+            "type": "Feature",
+            "id": 76,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Greenway Cottages",
+                "Address": "830 W. 40th Avenue"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60905533928599,
+                    39.27669106872457
+                ]
+            },
+            "type": "Feature",
+            "id": 77,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "1124-1126 Riverside Avenue",
+                "Address": "1124-1126 Riverside Avenue"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6198417987861,
+                    39.29272802644948
+                ]
+            },
+            "type": "Feature",
+            "id": 78,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Provident Bank of Maryland",
+                "Address": "240 N. Howard Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61327004604509,
+                    39.289034455612814
+                ]
+            },
+            "type": "Feature",
+            "id": 79,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Southern Hotel",
+                "Address": "7-11 Light Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61451675295636,
+                    39.29025437580022
+                ]
+            },
+            "type": "Feature",
+            "id": 80,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Macht Building",
+                "Address": "11-13 E. Fayette Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6126633130955,
+                    39.29130439064932
+                ]
+            },
+            "type": "Feature",
+            "id": 81,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Old Federal Reserve Bank",
+                "Address": "114-120 E. Lexington Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60987465918559,
+                    39.28887110389752
+                ]
+            },
+            "type": "Feature",
+            "id": 82,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Chamber of Commerce Building",
+                "Address": "17 Commerce Street (400 Water Street)"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62726590001193,
+                    39.28784426561241
+                ]
+            },
+            "type": "Feature",
+            "id": 83,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Old Saint Paul's Cemetary",
+                "Address": "733 W. Redwood Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59014259275402,
+                    39.284349183869715
+                ]
+            },
+            "type": "Feature",
+            "id": 84,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Wooden Houses",
+                "Address": "612-614 S. Wolfe Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62615514141692,
+                    39.29112357633901
+                ]
+            },
+            "type": "Feature",
+            "id": 85,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Pascault Row",
+                "Address": "651-665 W. Lexington Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61933025907182,
+                    39.32561483735531
+                ]
+            },
+            "type": "Feature",
+            "id": 86,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "The Baltimore Museum of Art & Spring House",
+                "Address": "10 Museum Drive"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61977310033474,
+                    39.29233704400277
+                ]
+            },
+            "type": "Feature",
+            "id": 87,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Hutzler's Tower Building",
+                "Address": "222 N. Howard Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62049306496554,
+                    39.33058574390558
+                ]
+            },
+            "type": "Feature",
+            "id": 88,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Johns Hopkins University, Gilman Hall",
+                "Address": "Charles and 34th Streets"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6022118597903,
+                    39.28624313684709
+                ]
+            },
+            "type": "Feature",
+            "id": 89,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "The D'alesandro House",
+                "Address": "245 Albemarle Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.67957028032369,
+                    39.28301551391607
+                ]
+            },
+            "type": "Feature",
+            "id": 90,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "St. Joseph's Passionist Monastery",
+                "Address": "3800 Frederick Avenue"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62401514450792,
+                    39.29757678848748
+                ]
+            },
+            "type": "Feature",
+            "id": 91,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Orchard Street Church",
+                "Address": "520 Orchard Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62764774244376,
+                    39.30393911187898
+                ]
+            },
+            "type": "Feature",
+            "id": 92,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Douglass Memorial Community Church",
+                "Address": "1327 Madison Avenue"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.66706887707407,
+                    39.30751112232045
+                ]
+            },
+            "type": "Feature",
+            "id": 93,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Buena Vista",
+                "Address": "1705 North Longwood Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61502582053583,
+                    39.29878938902383
+                ]
+            },
+            "type": "Feature",
+            "id": 94,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "George Howard House",
+                "Address": "8 E. Madison Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61613826446289,
+                    39.30921310332998
+                ]
+            },
+            "type": "Feature",
+            "id": 95,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Charles Theater",
+                "Address": "1711-1717 N. Charles Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63636912002491,
+                    39.30693942618769
+                ]
+            },
+            "type": "Feature",
+            "id": 96,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Saint Katherine of Alexandria Protestant Episcopal",
+                "Address": "2001 Division Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61992835401779,
+                    39.29181344321008
+                ]
+            },
+            "type": "Feature",
+            "id": 97,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Hecht Company Building",
+                "Address": "118 N Howard St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62039516102294,
+                    39.29511948908201
+                ]
+            },
+            "type": "Feature",
+            "id": 98,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Congress Hotel",
+                "Address": "306-312 W. Franklin Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63592108103748,
+                    39.28617970173827
+                ]
+            },
+            "type": "Feature",
+            "id": 99,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Carlton Street Stables",
+                "Address": "112 South Carlton Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57173696865227,
+                    39.28663168100387
+                ]
+            },
+            "type": "Feature",
+            "id": 100,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Patterson Theater",
+                "Address": "3137 Eastern Avenue"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61335554099938,
+                    39.29546746854039
+                ]
+            },
+            "type": "Feature",
+            "id": 101,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Standard Oil Building",
+                "Address": "501 Saint Paul Place"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59502317288411,
+                    39.318193363989245
+                ]
+            },
+            "type": "Feature",
+            "id": 102,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Friends Burial Ground",
+                "Address": "2506 Harford Road"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62755786494508,
+                    39.32849188254978
+                ]
+            },
+            "type": "Feature",
+            "id": 103,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Northern District Police Station",
+                "Address": "3355 Keswick Road"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62641588400781,
+                    39.298696100197844
+                ]
+            },
+            "type": "Feature",
+            "id": 104,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Samuel Coleridge Taylor Elementary School No. 122",
+                "Address": "501 W. Preston Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63351369976516,
+                    39.331285080203024
+                ]
+            },
+            "type": "Feature",
+            "id": 105,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Grace Hampden Methodist Church",
+                "Address": "1014 W. 36th Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63437083300313,
+                    39.37074545620942
+                ]
+            },
+            "type": "Feature",
+            "id": 106,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "DuVal/Hirschhorn House",
+                "Address": "800 W. Lake Avenue"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.69720983218542,
+                    39.28167821252601
+                ]
+            },
+            "type": "Feature",
+            "id": 107,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Patricia Grace Thomas Inn",
+                "Address": "5002 Frederick Avenue"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60549985607884,
+                    39.295248515696905
+                ]
+            },
+            "type": "Feature",
+            "id": 108,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Engine House No. 6",
+                "Address": "416 Oldtown Mall"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61023319687159,
+                    39.36345714104511
+                ]
+            },
+            "type": "Feature",
+            "id": 109,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Senator Theatre",
+                "Address": "5904 York Road"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61871090416932,
+                    39.33518418819149
+                ]
+            },
+            "type": "Feature",
+            "id": 110,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Scottish Rite Temple",
+                "Address": "3800 N. Charles Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57908045790836,
+                    39.327218543691984
+                ]
+            },
+            "type": "Feature",
+            "id": 111,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Saint Matthew United Church of Christ",
+                "Address": "2320 Mayfield Avenue"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62793649502609,
+                    39.301782387143874
+                ]
+            },
+            "type": "Feature",
+            "id": 112,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Union Baptist Church",
+                "Address": "1219 Druid Hill Avenue"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63833055604101,
+                    39.296474260653305
+                ]
+            },
+            "type": "Feature",
+            "id": 113,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Dr. John E.T. Camper House",
+                "Address": "639 North Carey Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.65705691514323,
+                    39.349638060774474
+                ]
+            },
+            "type": "Feature",
+            "id": 114,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Ruscombe Mansion",
+                "Address": "4901 Springarden Drive"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59373770121888,
+                    39.27233072677246
+                ]
+            },
+            "type": "Feature",
+            "id": 115,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Christ Church United Church of Christ",
+                "Address": "1308 Beason Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.58249852105367,
+                    39.298211318012214
+                ]
+            },
+            "type": "Feature",
+            "id": 116,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Johnny Eck House",
+                "Address": "622 North Milton Avenue"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59710159906982,
+                    39.32596273099373
+                ]
+            },
+            "type": "Feature",
+            "id": 117,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Baltimore City College",
+                "Address": "3220 The Alameda"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59671212762058,
+                    39.310754267733195
+                ]
+            },
+            "type": "Feature",
+            "id": 118,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "New Life Missisonary Baptist Church",
+                "Address": "1801 N Bond St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62458428242729,
+                    39.350247744324506
+                ]
+            },
+            "type": "Feature",
+            "id": 119,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Cedarwood",
+                "Address": "4604 N Charles St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63310535865455,
+                    39.30500975400439
+                ]
+            },
+            "type": "Feature",
+            "id": 120,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Masjid Al Haqq",
+                "Address": "514 Islamic Way"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63665716535216,
+                    39.30934323494145
+                ]
+            },
+            "type": "Feature",
+            "id": 121,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Fire Engine Company No. 25",
+                "Address": "2140 McCulloh St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64248480794227,
+                    39.309728746908796
+                ]
+            },
+            "type": "Feature",
+            "id": 122,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Arch Social Club",
+                "Address": "2426 Pennsylvania Ave"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59614893458483,
+                    39.284783623595374
+                ]
+            },
+            "type": "Feature",
+            "id": 123,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Douglass Place",
+                "Address": "516-524 S Dallas St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64492386405092,
+                    39.28841656944456
+                ]
+            },
+            "type": "Feature",
+            "id": 124,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Divine Mission Apostolic Church",
+                "Address": "1 N Fulton St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57048387394076,
+                    39.338311681630316
+                ]
+            },
+            "type": "Feature",
+            "id": 125,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Weaver House",
+                "Address": "4319 Arabia Ave"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61770095901352,
+                    39.33547349242932
+                ]
+            },
+            "type": "Feature",
+            "id": 126,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "First English Lutheran Church",
+                "Address": "3807 N Charles St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62379774036614,
+                    39.247456564322604
+                ]
+            },
+            "type": "Feature",
+            "id": 127,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Cherry Hill Elementary School #159",
+                "Address": "801 Bridgeview Rd"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62813457215339,
+                    39.32785219863675
+                ]
+            },
+            "type": "Feature",
+            "id": 128,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Schwing Motor Company Building",
+                "Address": "3324 Keswick Rd"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.68078405906776,
+                    39.30862255406698
+                ]
+            },
+            "type": "Feature",
+            "id": 129,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "The Mount",
+                "Address": "3706 Nortonia Rd"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6079358062733,
+                    39.270279930075226
+                ]
+            },
+            "type": "Feature",
+            "id": 130,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Riverside Park",
+                "Address": "301 E Randall St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.58692143879576,
+                    39.3094821550259
+                ]
+            },
+            "type": "Feature",
+            "id": 131,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Ameican Brewery",
+                "Address": "1701 N Gay St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63294050269322,
+                    39.298104000926024
+                ]
+            },
+            "type": "Feature",
+            "id": 132,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Upton Mansion",
+                "Address": "811 W Lanvale St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63495182870503,
+                    39.34119136680038
+                ]
+            },
+            "type": "Feature",
+            "id": 133,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Roland Park Water Tower",
+                "Address": "4210 Roland Ave"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57966972370086,
+                    39.348866648918936
+                ]
+            },
+            "type": "Feature",
+            "id": 134,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "W.E.B. DuBois House",
+                "Address": "2302 Montebello Terrace"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62653510648553,
+                    39.30583460303889
+                ]
+            },
+            "type": "Feature",
+            "id": 135,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Bolton Square",
+                "Address": "1400-1420 Mason, 300-310 & 236-250 W Lafayette, and 1401-1421 Jordon"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62244186766361,
+                    39.339062912046465
+                ]
+            },
+            "type": "Feature",
+            "id": 136,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Castalia",
+                "Address": "200 Tuscany Road"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59153568136243,
+                    39.2831987621929
+                ]
+            },
+            "type": "Feature",
+            "id": 137,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "St. Stanislaus Kostka Church",
+                "Address": "708 S Ann St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59190666688218,
+                    39.2834556268775
+                ]
+            },
+            "type": "Feature",
+            "id": 138,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Four Bay House",
+                "Address": "1733 Aliceanna St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61527616333514,
+                    39.3119692208934
+                ]
+            },
+            "type": "Feature",
+            "id": 139,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "St. Mark’s Evangelical Lutheran Church",
+                "Address": "1920 Saint Paul Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.56744289267698,
+                    39.33022564061908
+                ]
+            },
+            "type": "Feature",
+            "id": 140,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Dr. Giering House",
+                "Address": "3906 Parkside Drive"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60103206254587,
+                    39.30790588914155
+                ]
+            },
+            "type": "Feature",
+            "id": 141,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Harford Commons (William Fuld Company)",
+                "Address": "1508 Harford Road"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6599442577346,
+                    39.30205680202276
+                ]
+            },
+            "type": "Feature",
+            "id": 142,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Melvin Cade Armory",
+                "Address": "2620 Winchester Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60181827295428,
+                    39.30418750580831
+                ]
+            },
+            "type": "Feature",
+            "id": 143,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Nazarene Baptist Church",
+                "Address": "1201 Harford Road"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62178638924541,
+                    39.299452072095804
+                ]
+            },
+            "type": "Feature",
+            "id": 144,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Mount Calvary Church",
+                "Address": "816 N Eutaw Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59127313126844,
+                    39.30851596232883
+                ]
+            },
+            "type": "Feature",
+            "id": 145,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Saint Paul Community Baptist Church",
+                "Address": "1901 E Federal St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61641564834107,
+                    39.27017202052873
+                ]
+            },
+            "type": "Feature",
+            "id": 146,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Raffel Building",
+                "Address": "107 West Heath Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64204631207339,
+                    39.30524938278995
+                ]
+            },
+            "type": "Feature",
+            "id": 147,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Ann Wiggins Brown House",
+                "Address": "1501 Presstman St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6178112231535,
+                    39.291375116368236
+                ]
+            },
+            "type": "Feature",
+            "id": 148,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Kresge Building",
+                "Address": "117 W Lexington St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6353874941417,
+                    39.29845725782731
+                ]
+            },
+            "type": "Feature",
+            "id": 149,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Sellers Mansion",
+                "Address": "801 N Arlington Ave"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63731989180003,
+                    39.320063595307765
+                ]
+            },
+            "type": "Feature",
+            "id": 150,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Latrobe Pavilion",
+                "Address": "Druid Hill Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64993835247259,
+                    39.32264765729429
+                ]
+            },
+            "type": "Feature",
+            "id": 151,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Council Grove Pavilion",
+                "Address": "Druid Hill Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64575810611957,
+                    39.31859321831448
+                ]
+            },
+            "type": "Feature",
+            "id": 152,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Conservatory",
+                "Address": "Druid Hill Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64255834601371,
+                    39.31693887071084
+                ]
+            },
+            "type": "Feature",
+            "id": 153,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Chinese Pavilion",
+                "Address": "Druid Hill Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64039313583235,
+                    39.315213947750344
+                ]
+            },
+            "type": "Feature",
+            "id": 154,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Archway over Madison St Entrance",
+                "Address": "Druid Hill Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64709864971339,
+                    39.32345398688409
+                ]
+            },
+            "type": "Feature",
+            "id": 155,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Mansion House",
+                "Address": "Druid Hill Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64762988600586,
+                    39.321287072267936
+                ]
+            },
+            "type": "Feature",
+            "id": 156,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Boat House",
+                "Address": "Druid Hill Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64190264899457,
+                    39.317626144052994
+                ]
+            },
+            "type": "Feature",
+            "id": 157,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Chess & Checkers Pavilion",
+                "Address": "Druid Hill Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64366366955927,
+                    39.325525452143
+                ]
+            },
+            "type": "Feature",
+            "id": 158,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Octagonal Pavilion",
+                "Address": "Druid Hill Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64980584647226,
+                    39.320501751684105
+                ]
+            },
+            "type": "Feature",
+            "id": 159,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Unnamed Pavilion #1",
+                "Address": "Druid Hill Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64821624197114,
+                    39.322168039182294
+                ]
+            },
+            "type": "Feature",
+            "id": 160,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Unnamed Pavilion #2",
+                "Address": "Druid Hill Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64242468770492,
+                    39.32100473975181
+                ]
+            },
+            "type": "Feature",
+            "id": 161,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Unnamed Pavilion #4",
+                "Address": "Druid Hill Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64017896023842,
+                    39.32017231088324
+                ]
+            },
+            "type": "Feature",
+            "id": 162,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Unnamed Pavilion #5",
+                "Address": "Druid Hill Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64720221153456,
+                    39.32393724815939
+                ]
+            },
+            "type": "Feature",
+            "id": 163,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Unnamed Pavilion #3",
+                "Address": "Druid Hill Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60245183752484,
+                    39.28397931321835
+                ]
+            },
+            "type": "Feature",
+            "id": 164,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "President Street Station",
+                "Address": "601 S President St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6097124873966,
+                    39.326242144744405
+                ]
+            },
+            "type": "Feature",
+            "id": 165,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Waverly Town Hall",
+                "Address": "3100 Greenmount Ave"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62007017143326,
+                    39.29519319610603
+                ]
+            },
+            "type": "Feature",
+            "id": 166,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Franklin-Delphey Hotel",
+                "Address": "300 W Franklin Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61491049331919,
+                    39.29178304581653
+                ]
+            },
+            "type": "Feature",
+            "id": 167,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Grand Masonic Temple",
+                "Address": "221-227 N Charles St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6202564048578,
+                    39.295366928474444
+                ]
+            },
+            "type": "Feature",
+            "id": 168,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Mayfair Theater",
+                "Address": "506 N Howard St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61471202844793,
+                    39.28894305746191
+                ]
+            },
+            "type": "Feature",
+            "id": 169,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Hansa Haus",
+                "Address": "11 S Charles St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61164871579159,
+                    39.33331030343516
+                ]
+            },
+            "type": "Feature",
+            "id": 170,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Grace Turnbull House",
+                "Address": "223 Chancery Rd"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63241627323718,
+                    39.28819461518322
+                ]
+            },
+            "type": "Feature",
+            "id": 171,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "St. Peter the Apostle Church Complex",
+                "Address": "16 S Poppleton St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63167974438984,
+                    39.28822575793153
+                ]
+            },
+            "type": "Feature",
+            "id": 172,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "St. Peter the Apostle Church Complex",
+                "Address": "11 S Poppleton St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63172689287204,
+                    39.288027597164614
+                ]
+            },
+            "type": "Feature",
+            "id": 173,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "St. Peter the Apostle Church Complex",
+                "Address": "13 S Poppleton St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63144091656766,
+                    39.2880350629477
+                ]
+            },
+            "type": "Feature",
+            "id": 174,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "St. Peter the Apostle Church Complex",
+                "Address": "848 Holilns St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.70024909110575,
+                    39.30728954022555
+                ]
+            },
+            "type": "Feature",
+            "id": 175,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Crimea House, Chapel and Stables",
+                "Address": "Leakin Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.70092880413509,
+                    39.30531911166523
+                ]
+            },
+            "type": "Feature",
+            "id": 176,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Crimea House, Chapel and Stables",
+                "Address": "Leakin Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60846734278599,
+                    39.30701473488309
+                ]
+            },
+            "type": "Feature",
+            "id": 177,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Greenmount Cemetary Chapel and Gates",
+                "Address": "1501 Greenmount Avenue"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60748047242345,
+                    39.307218997269715
+                ]
+            },
+            "type": "Feature",
+            "id": 178,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Greenmount Cemetary Chapel and Gates",
+                "Address": "1501 Greenmount Avenue"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59778643402917,
+                    39.29693506338031
+                ]
+            },
+            "type": "Feature",
+            "id": 179,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Old Dunbar High School, PS 133",
+                "Address": "540 N Caroline St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60450189193178,
+                    39.288637959257485
+                ]
+            },
+            "type": "Feature",
+            "id": 180,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Carroll Mansion Complex",
+                "Address": "800 E Lombard St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61519724877218,
+                    39.297017087052936
+                ]
+            },
+            "type": "Feature",
+            "id": 181,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Peabody Institute",
+                "Address": "1-21 E. Mount Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.58364955526477,
+                    39.2899773580743
+                ]
+            },
+            "type": "Feature",
+            "id": 182,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Patterson Park Observatory",
+                "Address": "Patterson Park"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6327325811673,
+                    39.33524104791376
+                ]
+            },
+            "type": "Feature",
+            "id": 183,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Shelley House",
+                "Address": "3849 Roland Ave"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6206693139692,
+                    39.28899988314188
+                ]
+            },
+            "type": "Feature",
+            "id": 184,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Abell Building",
+                "Address": "329-335 W. Baltimore St."
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61988427499317,
+                    39.28901819909179
+                ]
+            },
+            "type": "Feature",
+            "id": 185,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Appold-Faust Building",
+                "Address": "307-309 W. Baltimore St."
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62073639397254,
+                    39.2902565273514
+                ]
+            },
+            "type": "Feature",
+            "id": 186,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Baltimore Equitable Society",
+                "Address": "21 N. Eutaw St."
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61256213975643,
+                    39.29021868186312
+                ]
+            },
+            "type": "Feature",
+            "id": 187,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Equitable Building",
+                "Address": "10-12 N. Calvert St."
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60816002395703,
+                    39.29289836213909
+                ]
+            },
+            "type": "Feature",
+            "id": 188,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Old Town National Bank",
+                "Address": "221 N. Gay St."
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61760872315904,
+                    39.29280318424032
+                ]
+            },
+            "type": "Feature",
+            "id": 189,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "St. Alphonsus School",
+                "Address": "125 W. Saratoga St."
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61146968462846,
+                    39.29340983966093
+                ]
+            },
+            "type": "Feature",
+            "id": 190,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Terminal Warehouse Building",
+                "Address": "320 Guilford Ave."
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62000500531276,
+                    39.289023803279
+                ]
+            },
+            "type": "Feature",
+            "id": 191,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Turnbull Building",
+                "Address": "311-313 W. Baltimore St."
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6152472320782,
+                    39.31210918981996
+                ]
+            },
+            "type": "Feature",
+            "id": 192,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "St. Mark's Evangelical Lutheran Church (Public Interior)",
+                "Address": "1920 St. Paul St."
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61023319687159,
+                    39.36345714104511
+                ]
+            },
+            "type": "Feature",
+            "id": 193,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Senator Theatre (Public Interior)",
+                "Address": "5904 York Road"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64233397116736,
+                    39.30775161332738
+                ]
+            },
+            "type": "Feature",
+            "id": 194,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Historic Frederick Douglass High School",
+                "Address": "1645 North Calhoun Street"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.65499080613837,
+                    39.31481764936319
+                ]
+            },
+            "type": "Feature",
+            "id": 195,
+            "properties": {
+                "marker-symbol": "town-hall",
+                "Name": "Frederick Douglass High School # 450",
+                "Address": "2301 Gwynns Falls Parkway"
+            }
+        }
+    ]
+}
