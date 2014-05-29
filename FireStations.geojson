@@ -1,0 +1,661 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.67748156695046,
+                    39.36163899519841
+                ]
+            },
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-45 T-27 M-14",
+                "Address": "2700 Glenn Ave 21215"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6906634768028,
+                    39.34762053902655
+                ]
+            },
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-46",
+                "Address": "5500 Reisterstown Rd 21215"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6833778071466,
+                    39.327887045620656
+                ]
+            },
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-40 T-12 BC-5",
+                "Address": "3906 Liberty Heights Ave 21"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.66551098706645,
+                    39.33800168206729
+                ]
+            },
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-29 M-17",
+                "Address": "4312 Park Heights Ave 21215"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63592037525564,
+                    39.350329318958764
+                ]
+            },
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-44 T-25",
+                "Address": "2 Upland Rd 21210"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63312178180412,
+                    39.333647955337625
+                ]
+            },
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-21 M-11",
+                "Address": "3724 Roland Ave 21211"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60915302827303,
+                    39.32685270761553
+                ]
+            },
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-31 M-3",
+                "Address": "3123 Greenmount Ave 21218"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.59710729058023,
+                    39.35927903930153
+                ]
+            },
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-43 M-18, BC-4",
+                "Address": "1100 Walters Ave 21239"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5974574247269,
+                    39.344690879330805
+                ]
+            },
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-4 T-29",
+                "Address": "1201 E. Coldspring La 21239"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.55354710344952,
+                    39.361895398560044
+                ]
+            },
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-56",
+                "Address": "6512 Harford Rd"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57145749763185,
+                    39.34157033430106
+                ]
+            },
+            "type": "Feature",
+            "id": 10,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-42 M-6, M-13",
+                "Address": "4522 Harford Rd 21214"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60183198848581,
+                    39.317722590620626
+                ]
+            },
+            "type": "Feature",
+            "id": 11,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-33 M-16 T-5",
+                "Address": "801 E. 25th St 21218"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.56062859445667,
+                    39.3255585770355
+                ]
+            },
+            "type": "Feature",
+            "id": 12,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-27 T-26",
+                "Address": "4315 Mannasota Ave 21206"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.67056466297196,
+                    39.30922984010482
+                ]
+            },
+            "type": "Feature",
+            "id": 13,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-20 T-18 M-8",
+                "Address": "3130 W. North Ave 21216"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.67091404565963,
+                    39.280926842579085
+                ]
+            },
+            "type": "Feature",
+            "id": 14,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-30 T-8 M-12",
+                "Address": "3220 Frederick Ave 21229"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.65411801237974,
+                    39.265441579650656
+                ]
+            },
+            "type": "Feature",
+            "id": 15,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-47",
+                "Address": "2608 Washington Blvd 21230"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64753758070505,
+                    39.2873232713553
+                ]
+            },
+            "type": "Feature",
+            "id": 16,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-14",
+                "Address": "1908 Hollins St 21223"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.65303524017936,
+                    39.29461723669339
+                ]
+            },
+            "type": "Feature",
+            "id": 17,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-36",
+                "Address": "2249 Edmondson Ave 21223"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.65133601906498,
+                    39.318934028562914
+                ]
+            },
+            "type": "Feature",
+            "id": 18,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-52",
+                "Address": "3525 Woodbrook Ave 21217"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64214620765533,
+                    39.29869065072948
+                ]
+            },
+            "type": "Feature",
+            "id": 19,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-8 T-10 M-15 BC-3",
+                "Address": "1503 W. Lafayette Ave 21217"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63024770135856,
+                    39.30489918482678
+                ]
+            },
+            "type": "Feature",
+            "id": 20,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-13 T-16 M-4",
+                "Address": "405 McMechen St 21217"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.62032963569001,
+                    39.28778394220131
+                ]
+            },
+            "type": "Feature",
+            "id": 21,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-23 T-2 M-1 BC-6 R-1 AF-1",
+                "Address": "15 S. Eutaw St 21201"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60966601404114,
+                    39.290299508552295
+                ]
+            },
+            "type": "Feature",
+            "id": 22,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "Headquarters",
+                "Address": "601 E. Fayette St 21202"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60774138257806,
+                    39.29033841336308
+                ]
+            },
+            "type": "Feature",
+            "id": 23,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "Communications",
+                "Address": "601 E. Fayette St. 21202"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60546805741393,
+                    39.297365708946884
+                ]
+            },
+            "type": "Feature",
+            "id": 24,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-6 T-1 M-7 BC-2 AF-2 Sh.Cmd",
+                "Address": "1100 Hillen St 21202"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.58389574417788,
+                    39.30532095898234
+                ]
+            },
+            "type": "Feature",
+            "id": 25,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "T-15",
+                "Address": "1223 N. Montford Ave 21213"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.58613154327743,
+                    39.28606237661932
+                ]
+            },
+            "type": "Feature",
+            "id": 26,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-5 T-3 M-10",
+                "Address": "2120 Eastern Ave 21231"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5701174031257,
+                    39.29918999170865
+                ]
+            },
+            "type": "Feature",
+            "id": 27,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-51",
+                "Address": "646 N. Highland Ave 21205"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.56745955576355,
+                    39.28597869650887
+                ]
+            },
+            "type": "Feature",
+            "id": 28,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-41 BC-1",
+                "Address": "520 S. Conkling St 21224"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.54313551739872,
+                    39.27430429905218
+                ]
+            },
+            "type": "Feature",
+            "id": 29,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-50 M-2",
+                "Address": "1601 Broening Hwy 21224"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63695665023782,
+                    39.27800709234871
+                ]
+            },
+            "type": "Feature",
+            "id": 30,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-55 T-23",
+                "Address": "1229 Bush St 21230"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61287490093406,
+                    39.27979865154987
+                ]
+            },
+            "type": "Feature",
+            "id": 31,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-2",
+                "Address": "800 Light St 21230"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.615186155272,
+                    39.27484206897689
+                ]
+            },
+            "type": "Feature",
+            "id": 32,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "T-6",
+                "Address": "1227 S. Hanover St 21230"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60837286667582,
+                    39.272844348164135
+                ]
+            },
+            "type": "Feature",
+            "id": 33,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-26 M-5",
+                "Address": "399 E. Fort Ave 21230"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5789767384148,
+                    39.265831771985475
+                ]
+            },
+            "type": "Feature",
+            "id": 34,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "FB-1 FRB-1",
+                "Address": "2609 Leahy St 21230"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.63502781449172,
+                    39.26089763749272
+                ]
+            },
+            "type": "Feature",
+            "id": 35,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-58",
+                "Address": "2425 Annanopolis Rd 21230"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60290748311677,
+                    39.23924102625596
+                ]
+            },
+            "type": "Feature",
+            "id": 36,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-35 T-21 M-9 BC-6 Hazmat-1",
+                "Address": "430 Maude Ave 21225"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.588306405788,
+                    39.22541817021242
+                ]
+            },
+            "type": "Feature",
+            "id": 37,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-57",
+                "Address": "4427 Pennington Ave 21226"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.54686368295246,
+                    39.28774854580804
+                ]
+            },
+            "type": "Feature",
+            "id": 38,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-124 T-20",
+                "Address": "5714 Eastern Ave 21224"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.54250156155197,
+                    39.34413904230491
+                ]
+            },
+            "type": "Feature",
+            "id": 39,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-54 T-30",
+                "Address": "5821 Belair Rd 21206"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.69422763897693,
+                    39.29436444969246
+                ]
+            },
+            "type": "Feature",
+            "id": 40,
+            "properties": {
+                "marker-symbol": "fire-station",
+                "Name": "E-53",
+                "Address": "608 Swann Rd 21229"
+            }
+        }
+    ]
+}

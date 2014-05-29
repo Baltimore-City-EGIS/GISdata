@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60768814505799,
+                    39.29022044046904
+                ]
+            },
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "marker-symbol": "police",
+                "Name": "Headquarters",
+                "Address": "601 E Fayette St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.60852999395827,
+                    39.2899986847585
+                ]
+            },
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "marker-symbol": "police",
+                "Name": "Central",
+                "Address": "500 E Baltimore St"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.65198159649482,
+                    39.34281917472921
+                ]
+            },
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "marker-symbol": "police",
+                "Name": "Northern",
+                "Address": "2201 W Cold Spring Ln"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.58273222303417,
+                    39.341099157933805
+                ]
+            },
+            "type": "Feature",
+            "id": 3,
+            "properties": {
+                "marker-symbol": "police",
+                "Name": "Northeastern",
+                "Address": "1900 Argonne Dr"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.68515534619486,
+                    39.34484085153997
+                ]
+            },
+            "type": "Feature",
+            "id": 4,
+            "properties": {
+                "marker-symbol": "police",
+                "Name": "Northwestern",
+                "Address": "5271 Reisterstown Rd"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.57358593076731,
+                    39.309992631599904
+                ]
+            },
+            "type": "Feature",
+            "id": 5,
+            "properties": {
+                "marker-symbol": "police",
+                "Name": "Eastern",
+                "Address": "1620 Edison Hwy"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.61712851469494,
+                    39.25304232096042
+                ]
+            },
+            "type": "Feature",
+            "id": 6,
+            "properties": {
+                "marker-symbol": "police",
+                "Name": "Southern",
+                "Address": "10 Cherry Hill Rd"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.54746147846538,
+                    39.28788976418725
+                ]
+            },
+            "type": "Feature",
+            "id": 7,
+            "properties": {
+                "marker-symbol": "police",
+                "Name": "Southeastern",
+                "Address": "5710 Eastern Av"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.66393013786748,
+                    39.27841055292475
+                ]
+            },
+            "type": "Feature",
+            "id": 8,
+            "properties": {
+                "marker-symbol": "police",
+                "Name": "Southwestern",
+                "Address": "424 Font Hill Av"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.64494957675923,
+                    39.300587520919315
+                ]
+            },
+            "type": "Feature",
+            "id": 9,
+            "properties": {
+                "marker-symbol": "police",
+                "Name": "Western",
+                "Address": "1034 N Mount St"
+            }
+        }
+    ]
+}
